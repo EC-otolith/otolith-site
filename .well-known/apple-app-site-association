@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["5H4GG8L8C3.ObsidianHill.Otolith"],
+        "components": [
+          {
+            "/": "/share*",
+            "comment": "Open a saved link in Otolith"
+          }
+        ]
+      }
+    ]
+  }
+}
