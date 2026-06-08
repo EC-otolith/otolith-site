@@ -5,7 +5,8 @@
         "appIDs": ["5H4GG8L8C3.ObsidianHill.Otolith"],
         "components": [
           {
-            "/": "/share*",
+            "/": "/share",
+            "?": { "u": "?*" },
             "comment": "Open a saved link in Otolith"
           }
         ]
