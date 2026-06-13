@@ -2,7 +2,7 @@
   "applinks": {
     "details": [
       {
-        "appIDs": ["5H4GG8L8C3.ObsidianHill.Otolith"],
+        "appIDs": ["5H4GG8L8C3.com.otolith.app"],
         "components": [
           {
             "/": "/share",
